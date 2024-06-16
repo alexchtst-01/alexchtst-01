@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm [Alex Cinatra]! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves creating and experimenting with new projects. Here are some of the projects I've been working on:
 
